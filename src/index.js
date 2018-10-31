@@ -5,7 +5,6 @@ import Main from './Main/App'
 import Second from './Second/App'
 
 const render = () => {
-
   class Root extends Component {
     render() {
       return (

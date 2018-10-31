@@ -1,7 +1,8 @@
 # Practice react & D3
 
 ## Project
-  練習從頭建立React & Redux & D3, 改用parcel 打包React
+  - 練習從頭建立React & Redux & D3, 改用parcel 打包React
+  - https://segmentfault.com/a/1190000012327384
 
 ## script
   - 安裝package
@@ -12,6 +13,7 @@
 ## 使用
   - [x] React
   - [x] React-router
+  - [x] css-module
 
 ## 步驟
   1. 新增專案
@@ -54,4 +56,7 @@
   ],
   "presets": ["env", "react"]
 ```
-  - https://github.com/parcel-bundler/parcel/issues/689
+
+  - 參考
+    - https://github.com/parcel-bundler/parcel/issues/689
+    - https://parceljs.org/transforms.html#postcss
